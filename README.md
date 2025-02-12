@@ -20,10 +20,6 @@ pip install myqlm numpy matplotlib scipy
 2. Run cells to execute VQE and compute the Green function.
 3. View plotted Green function results.
 
-## Description
-- **VQE**: Finds the ground state energy.
-- **Green Function Circuit**: Measures real-time evolution.
-- **Visualization**: Plots the real-time retarded Green function.
 
 ## Future Work
 - Extend to the Anderson Impurity model.
